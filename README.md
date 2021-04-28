@@ -31,9 +31,7 @@ Curso: [RocketSeat - Java Script](https://app.rocketseat.com.br/node/o-guia-este
 
 Prof. Mayk Brito
 
-<br>
-
-### **É IMPRESSINDÍVEL QUE ASSISTA OS VÍDEOS DO CURSO!!!**
+**É IMPRESSINDÍVEL QUE ASSISTA OS VÍDEOS DO CURSO!!!**
 
 <br><br>
 
