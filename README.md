@@ -50,7 +50,7 @@ Lembrando que os resultados e visto no console do seu navegador
 
 As seguintes ferramentas foram para o estudo:
 
-- [javaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [VsCode](https://code.visualstudio.com/)
 
 <br><br>
