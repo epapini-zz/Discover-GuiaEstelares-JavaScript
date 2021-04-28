@@ -9,7 +9,7 @@
 - [Tecnologias e Ferramentas](#tecnologiasFerramentas)
 - [Primeiros passos](./Readme/PrimeirosPassos.md)
 - [Tipos de Dados](./Readme/TiposDeDados.md)
-- [Variáveis](./Readme/Variaveis.md)
+- [Variáveis](./Readme/variaveis.md)
 - [Praticando e Avançando](./Readme/PraticandoAvancando.md)
 - [Funções](./Readme/Funcoes.md)
 - [Manipulando Dados](./Readme/ManipulandoDados.md)
