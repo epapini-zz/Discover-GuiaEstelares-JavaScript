@@ -1,9 +1,6 @@
 # Discover / Guias estelares - JavaScript
 
-- ## **Conteúdos**
-
-<br>
-
+## **Conteúdos**
 <!--ts-->
 
 - [Sobre](./sobre)
