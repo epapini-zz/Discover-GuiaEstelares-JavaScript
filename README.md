@@ -17,7 +17,6 @@
 - [Condicionais de controle de Fluxo](./Readme/CondicionaisControFluxo.md)
 - [Estruturas de repetição](./Readme/EstruturaRepetição.md)
 - [Como criar um README (RocketSeat)](https://blog.rocketseat.com.br/como-fazer-um-bom-readme/)
-- [Exercícios](#como-usar)
 
 <!--te-->
 
