@@ -4,7 +4,7 @@ Você usa variáveis como nomes simbólicos para os valores em sua aplicação. 
 
 <br><br>
 
-> ### **Conteúdo**
+> ## **Conteúdo**
 
 <!--ts-->
 
@@ -13,7 +13,10 @@ Você usa variáveis como nomes simbólicos para os valores em sua aplicação. 
 - [Scope e var](#ScopeVar)
 - [Scope let e const](#ScopeLetConst)
 - [Nomeando variáveis](#NomeandoVariáveis)
-- <br><br>
+
+<!--te-->
+
+<br><br>
 
 > ## **Conhecendo Variáveis**
 
@@ -99,7 +102,7 @@ O var é global e poderá funcionar fora do escopo de bloco
 
 <br><br>
 
-> - ## **Hoisting**
+> ## **Hoisting**
 
 O Hoisting ocorre quando seu código Javascript é compilado : Basicamente, todas as declarações de variáveis são movidas para o topo de seu escopo local (se foram declaradas dentro de uma função, por exemplo) ou para o topo do escopo global (se foram declaradas fora de uma função)
 

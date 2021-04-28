@@ -2,7 +2,7 @@
 
 <br>
 
-> ### **Conteúdo**
+> ## **Conteúdo**
 
 <!--ts-->
 
@@ -13,6 +13,8 @@
 - [Undefined vs null](#UndefinedNull)
 - [Object](#Object)
 - [Array](#Array)
+
+<!--te-->
 
 <br><br>
 
@@ -59,9 +61,9 @@ Podem ser representadas por:
 Crazes -> Template literals; <br>
 
 ```
-console.log("Eu sou uma string com aspas duplas");
-console.log('Eu sou uma string com aspas sinples');
-console.log(`Com template literals posso usar expresões ${ 1 + 1 }`);
+  console.log("Eu sou uma string com aspas duplas");
+  console.log('Eu sou uma string com aspas sinples');
+  console.log(`Com template literals posso usar expresões ${ 1 + 1 }`);
 ```
 
 <br><br>
@@ -73,9 +75,9 @@ console.log(`Com template literals posso usar expresões ${ 1 + 1 }`);
 NaN -> Not a number
 
 ```
-console.log(33 + 15); //Inteiros
-console.log(12.5 + 15.7); //Float
-console.log(15 + "Texto"); //Not a number
+  console.log(33 + 15); //Inteiros
+  console.log(12.5 + 15.7); //Float
+  console.log(15 + "Texto"); //Not a number
 ```
 
 <br><br>
@@ -88,8 +90,8 @@ true -> verdadeiro
 false -> false
 
 ```
-console.log(true); //true
-console.log(false); //false
+  console.log(true); //true
+  console.log(false); //false
 
 ```
 

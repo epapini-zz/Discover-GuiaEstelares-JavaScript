@@ -1,6 +1,6 @@
 > # Condicionais e controle de fluxo
 
-<br><br>
+<br>
 
 ### **Conteúdo**
 
@@ -10,7 +10,7 @@
 - [Switch](#Switch)
 - [Throw e Try/Catch](#ThrowTTryCatch)
 
-<br><br>
+<!--te-->
 
 <br><br>
 

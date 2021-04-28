@@ -11,14 +11,14 @@
 - [Como funciona](#comoFunciona)
 - [Tecnologias e Ferramentas](#tecnologiasFerramentas)
 - [Primeiros passos](./Readme/PrimeirosPassos.md)
-- [Tipos de Dados](./TiposDeDados.md)
-- [Variáveis](./Readmevariaveis.md)
+- [Tipos de Dados](./Readme/TiposDeDados.md)
+- [Variáveis](./Readme/Variaveis.md)
 - [Praticando e Avançando](./Readme/PraticandoAvancando.md)
 - [Funções](./Readme/Funcoes.md)
 - [Manipulando Dados](./Readme/ManipulandoDados.md)
 - [Expressões e Operadores](./Readme/ExpressoesOperadores.md)
 - [Condicionais de controle de Fluxo](./Readme/CondicionaisControFluxo.md)
-- [Estruturas de repetição](./Readme/EstruturaRepetição.md.md)
+- [Estruturas de repetição](./Readme/EstruturaRepetição.md)
 - [Como criar um README (RocketSeat)](https://blog.rocketseat.com.br/como-fazer-um-bom-readme/)
 - [Exercícios](#como-usar)
 
@@ -26,9 +26,7 @@
 
 <br><br>
 
-<a id="objetivo"></a>
-
-- ## **Objetivo**
+> ## **Objetivo**
 
 Adiquirir os conhecimentos passados no curso.
 
@@ -42,9 +40,7 @@ Prof. Mayk Brito
 
 <br><br>
 
-<a id="comoFunciona"></a>
-
-- ## **Como funciona**
+> ## **Como funciona**
 
 Assista as [aulas](https://app.rocketseat.com.br/node/o-guia-estelar-de-java-script), caso haja dúvida, pode consultar esse documento.
 
@@ -56,7 +52,7 @@ Lembrando que os resultados e visto no console do seu navegador
 
 <a id="tecnologiasFerramentas"></a>
 
-- ## **🛠 Tecnologias e Ferramentas**
+> ## **🛠 Tecnologias e Ferramentas**
 
 As seguintes ferramentas foram para o estudo:
 
@@ -65,6 +61,8 @@ As seguintes ferramentas foram para o estudo:
 
 <br><br>
 
-- ## **License**
+> ## **License**
+
+<br>
 
 [![NPM](https://img.shields.io/apm/l/react)](https://github.com/epapini/Discover-GuiaEstelares-JavaScript/blob/main/Readme/LICENSE)

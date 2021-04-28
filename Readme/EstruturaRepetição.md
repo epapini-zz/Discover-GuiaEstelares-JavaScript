@@ -1,8 +1,8 @@
 > # Estrutura de repetição
 
-<br><br>
+<br>
 
-> ### **Conteúdo**
+> ## **Conteúdo**
 
 <!--ts-->
 
@@ -13,7 +13,7 @@
 
 <br><br>
 
-> ## for (Para)
+> ## For (Para)
 
 <br>
 

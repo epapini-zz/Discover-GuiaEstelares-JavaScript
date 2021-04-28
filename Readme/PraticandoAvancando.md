@@ -12,7 +12,10 @@
 - [Objects](#Objects)
 - [Arrays](#Arrays)
 - [Exercícios](#Exercícios)
-- <br><br>
+
+<!--te-->
+
+<br><br>
 
 > ## Declaration assignment var
 

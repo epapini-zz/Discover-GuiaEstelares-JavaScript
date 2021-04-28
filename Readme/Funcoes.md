@@ -8,7 +8,7 @@ Tbm funciona o script.js da raiz do projeto.
 
 <br><br>
 
-> ### **Conteúdo**
+> ## **Conteúdo**
 
 <!--ts-->
 
@@ -20,6 +20,8 @@ Tbm funciona o script.js da raiz do projeto.
 - [Arrow function](#arrowFunction)
 - [Callback function](#callbackFunction)
 - [Funções construtoras](#constructorFunction)
+
+<!--te-->
 
 <br><br>
 

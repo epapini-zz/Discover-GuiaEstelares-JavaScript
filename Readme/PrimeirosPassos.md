@@ -10,6 +10,8 @@
 - [Adicionando arquivos JS](#arquivoJs)
 - [Comentários](#Comentários)
 
+<!--te-->
+
 <br><br>
 
 > ## **Maneiras de executar.**

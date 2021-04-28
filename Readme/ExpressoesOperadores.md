@@ -1,5 +1,32 @@
 > # Expressões e Operadores
 
+<br>
+
+> ## **Conteúdo**
+
+<!--ts-->
+
+- [Introdução](#introdução)
+- [New](#New)
+- [Typeof delete](#TypeofDelete)
+- [Operadores aritméticos](#OperadoresAritmeticos)
+- [Grouping operator](#GroupingOperator)
+- [Operadores de comparação igual e diferente de](#OperadoresCompracacao1)
+- [Operadores de comparação estritamente igual e estritamente diferente](#OperadoresCompracacao2)
+- [Operadores de comparação maior e menor (igual)](#OperadoresCompracacao3)
+- [Operadores de atribuição](#OperadoresAtribuicao)
+- [Operadores lógicos](#OperadoresLogicos)
+- [Operador condicional ternário](#OperadorTternario)
+- [Operadores para string](#OperadoresString)
+- [Falsy e truthy](#FalsyTruthy)
+- [Precedência dos operadores](#PrecedenciaOperadores)
+
+<!--te-->
+
+<br><br>
+
+> ## Introdução
+
 **Operadores**
 
 O JavaScript possui os tipos de operadores a seguir. Esta seção descreve os operadores e contém informações sobre precedência de operadores.
@@ -25,26 +52,6 @@ O JavaScript possui as seguintes categorias de expressão:
 - **Expressões primárias**: Palavras reservadas e expressões gerais do JavaScript.
 -
 - **Expressão lado esquerdo**: atribuição à esquerda de valores.
-
-<br><br>
-
-> ### **Conteúdo**
-
-<!--ts-->
-
-- [New](#New)
-- [Typeof delete](#TypeofDelete)
-- [Operadores aritméticos](#OperadoresAritmeticos)
-- [Grouping operator](#GroupingOperator)
-- [Operadores de comparação igual e diferente de](#OperadoresCompracacao1)
-- [Operadores de comparação estritamente igual e estritamente diferente](#OperadoresCompracacao2)
-- [Operadores de comparação maior e menor (igual)](#OperadoresCompracacao3)
-- [Operadores de atribuição](#OperadoresAtribuicao)
-- [Operadores lógicos](#OperadoresLogicos)
-- [Operador condicional ternário](#OperadorTternario)
-- [Operadores para string](#OperadoresString)
-- [Falsy e truthy](#FalsyTruthy)
-- [Precedência dos operadores](#PrecedenciaOperadores)
 
 <br><br>
 

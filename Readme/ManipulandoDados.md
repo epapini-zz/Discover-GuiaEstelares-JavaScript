@@ -1,10 +1,8 @@
-> # Manipulando Dados
+> # **Manipulando Dados**
 
 <br>
 
-> ## **Conteúdos**
-
-<br>
+> ## **Conteúdo**
 
 <!--ts-->
 
