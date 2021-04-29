@@ -4,9 +4,9 @@
 <!--ts-->
 
 - [Sobre](./sobre)
-- [Objetivo](#objetivo)
-- [Como funciona](#comoFunciona)
-- [Tecnologias e Ferramentas](#tecnologiasFerramentas)
+  - [Objetivo](#objetivo)
+  - [Como funciona](#comoFunciona)
+  - [Tecnologias e Ferramentas](#tecnologiasFerramentas)
 - [Primeiros passos](./Readme/PrimeirosPassos.md)
 - [Tipos de Dados](./Readme/TiposDeDados.md)
 - [Variáveis](./Readme/variaveis.md)
